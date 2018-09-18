@@ -1,0 +1,11 @@
+.vs
+Library
+*.csproj
+*.sln
+UnityPackageManager
+ProjectSettings
+/Temp
+# !ProjectSettings/InputManager.asset
+# !ProjectSettings/TagManager.asset
+# !ProjectSettings/DynamicsManager.asset
+# !ProjectSettings/Physics2DSettings.asset

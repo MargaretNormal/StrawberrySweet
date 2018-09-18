@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e030e9f9406ec0d459566bb2f20653af
+timeCreated: 1536759466
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Metal Lord
+  fontNames:
+  - Metal Lord
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
